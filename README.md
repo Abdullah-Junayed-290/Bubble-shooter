@@ -36,8 +36,6 @@ Bubble-shooter/
 ├── style.css          # Stylesheet
 ├── script.js          # Main game logic
 ├── assets/            # Contains game assets
-│   ├── images/        # Game images
-│   └── sounds/        # Game sounds (if any)
 └── README.md          # This file
 ```
 
@@ -57,5 +55,4 @@ Developed by [Abdullah Junayed](https://github.com/Abdullah-Junayed-290)
 
 ---
 
-Enjoy the game! �💥
-```
+Enjoy the game! 💥
