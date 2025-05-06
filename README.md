@@ -1,4 +1,4 @@
-# Bubble Shooter Game �
+# Bubble Shooter Game 🎮 
 
 ![Bubble Shooter Screenshot](screenshot.png) <!-- Add a screenshot if available -->
 
@@ -34,8 +34,7 @@ Or play directly from GitHub Pages:
 Bubble-shooter/
 ├── index.html         # Main HTML file
 ├── style.css          # Stylesheet
-├── script.js          # Main game logic
-├── assets/            # Contains game assets
+├── main.js          # Main game logic
 └── README.md          # This file
 ```
 
